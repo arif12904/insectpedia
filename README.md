@@ -68,9 +68,8 @@ Aplikasi menampilkan:
 ### 6. Melihat Informasi Aplikasi (About)  
 Pengguna dapat membaca tentang aplikasi dan tim pengembang.
 
-<img src="https://github.com/user-attachments/assets/58d80a4b-b646-432b-ab33-725cf2858f73" width="300">
+<img src="https://github.com/user-attachments/assets/5935c44a-1e81-4942-a4ab-56987a61da52" width="300">
 
-![About Screenshot](https://via.placeholder.com/600x300?text=About+Page)
 
 ---
 
@@ -80,7 +79,7 @@ Pengguna dapat:
 - Mengubah avatar  
 - Logout  
 
-<img src="https://github.com/user-attachments/assets/5935c44a-1e81-4942-a4ab-56987a61da52" width="300">
+<img src="https://github.com/user-attachments/assets/58d80a4b-b646-432b-ab33-725cf2858f73" width="300">
 
 ---
 
