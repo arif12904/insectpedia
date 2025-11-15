@@ -145,6 +145,6 @@ lt --port 8000 --subdomain insectpedia
 ---
 
 
-## Link Google Drive
+## Link APK
 
 Link google Drive: https://drive.google.com/drive/folders/1FK4io247zbQIeL0uBsyy_OU95lzipElW?usp=sharing
