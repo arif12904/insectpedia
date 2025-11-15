@@ -92,7 +92,8 @@ Pengguna dapat:
 - Autentikasi (Register & Login)  
 - Edit Profile
 - Mode tema lime dan amber
-- Menu About  
+- Menu About
+- Hapus Akun
 
 ---
 
