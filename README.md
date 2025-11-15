@@ -8,14 +8,10 @@ Insectpedia adalah aplikasi klasifikasi serangga berbahaya berbasis kecerdasan b
 
 ### 1. Buka Aplikasi Insectpedia  
 Saat pertama kali dibuka, pengguna akan melihat **3 halaman onboarding**.
-
-<img src="https://github.com/user-attachments/assets/99622c1c-d729-4bd6-be5e-7a14bc616ed0" width="300">
-![Screenshot_20251115_144735](https://github.com/user-attachments/assets/d0d2106d-6558-4d9f-96e1-2fedec8cf4f8)
-![Screenshot_20251115_144727](https://github.com/user-attachments/assets/ef7fe7bf-584a-42d0-a845-7b6ef9ea17eb)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/99622c1c-d729-4bd6-be5e-7a14bc616ed0" width="300">
-  <img src="https://github.com/user-attachments/assets/ef7fe7bf-584a-42d0-a845-7b6ef9ea17eb" width="200">
-  <img src="https://github.com/user-attachments/assets/d0d2106d-6558-4d9f-96e1-2fedec8cf4f8" width="200">
+  <img src="https://github.com/user-attachments/assets/ef7fe7bf-584a-42d0-a845-7b6ef9ea17eb" width="300">
+  <img src="https://github.com/user-attachments/assets/d0d2106d-6558-4d9f-96e1-2fedec8cf4f8" width="300">
 </p>
 
 
