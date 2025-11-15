@@ -1,10 +1,10 @@
-# Insectpedia – Aplikasi Klasifikasi Serangga Berbahaya Berbasis AI
+# Insectpedia – Aplikasi Klasifikasi Serangga Berbahaya
 
 Insectpedia adalah aplikasi klasifikasi serangga berbahaya berbasis kecerdasan buatan yang mengidentifikasi berbagai spesies serangga melalui foto. Aplikasi ini memberikan informasi singkat tentang karakteristik setiap serangga yang terdeteksi, tingkat bahaya, dan metode penanganannya. Insectpedia membantu pengguna mengenali potensi ancaman sejak dini dan meningkatkan kesadaran tentang serangga yang dapat merusak tanaman atau memengaruhi kesehatan manusia.
 
 ---
 
-## 📱 Cara Menggunakan Aplikasi
+## Cara Menggunakan Aplikasi
 
 ### 1. Buka Aplikasi Insectpedia  
 Saat pertama kali dibuka, pengguna akan melihat **3 halaman onboarding**.
@@ -15,20 +15,19 @@ Saat pertama kali dibuka, pengguna akan melihat **3 halaman onboarding**.
 </p>
 
 
-
 ---
 
 ### 2. Registrasi Akun  
 Jika belum memiliki akun, masuk ke halaman **Register**, lalu isi email, username, dan password.
-
-![Register Screenshot](https://via.placeholder.com/600x300?text=Register+Screen)
+<img src="https://github.com/user-attachments/assets/d15a12d5-7b7f-4072-8b8c-bfdd84d33fc3" width="300">
 
 ---
 
 ### 3. Login ke Aplikasi  
 Pada halaman Login, masukkan email dan password untuk masuk.
+<img src="https://github.com/user-attachments/assets/c6b7f2cf-df59-437f-8db2-1513fdd02185" width="300">
 
-![Login Screenshot](https://via.placeholder.com/600x300?text=Login+Screen)
+
 
 ---
 
