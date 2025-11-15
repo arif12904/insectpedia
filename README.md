@@ -107,6 +107,6 @@ conda activate pakbmobile
 python manage.py runserver
 ```
 
-### 3. Aktifkan environment
+### 3. Ekspos Server dengan LocalTunnel
 ```bash
 lt --port 8000 --subdomain insectpedia
