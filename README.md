@@ -18,13 +18,13 @@ Saat pertama kali dibuka, pengguna akan melihat **3 halaman onboarding**.
 ---
 
 ### 2. Registrasi Akun  
-Jika belum memiliki akun, masuk ke halaman **Register**, lalu isi email, username, dan password.
+Jika belum memiliki akun, masuk ke halaman **Register**, lalu isi email, username, dan password.</br>
 <img src="https://github.com/user-attachments/assets/d15a12d5-7b7f-4072-8b8c-bfdd84d33fc3" width="300">
 
 ---
 
 ### 3. Login ke Aplikasi  
-Pada halaman Login, masukkan email dan password untuk masuk.
+Pada halaman Login, masukkan email dan password untuk masuk.</br>
 <img src="https://github.com/user-attachments/assets/c6b7f2cf-df59-437f-8db2-1513fdd02185" width="300">
 
 
