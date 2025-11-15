@@ -90,8 +90,8 @@ Pengguna dapat:
 - Informasi lengkap serangga + tingkat bahaya + penanganan  
 - Onboarding  
 - Autentikasi (Register & Login)  
-- Edit Profile 
-
+- Edit Profile
+- Mode tema lime dan amber
 - Menu About  
 
 ---
