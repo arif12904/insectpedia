@@ -97,4 +97,14 @@ Pengguna dapat:
 ---
 
 ## Cara Menjalankan Server/API 
+### 1. Aktifkan environment
+```bash
+conda activate pakbmobile
 
+### 2. Jalankan Server Django
+```bash
+python manage.py runserver
+
+### 3. Aktifkan environment
+```bash
+lt --port 8000 --subdomain insectpedia
