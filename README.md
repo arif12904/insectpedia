@@ -1,8 +1,11 @@
 # Insectpedia – Aplikasi Klasifikasi Serangga Berbahaya
 
+
+---
+
 ## Nama Kelompok dan Anggota
 
-**B3'23**  
+**Kelompok B3'23**  
 
 **Anggota:**  
 1. Muhammad Arif Septian (2309106046)  
