@@ -122,17 +122,22 @@ Pengguna dapat melakukan:
 ---
 
 ## Cara Menjalankan Server/API 
-### 1. Aktifkan environment
+### 1. Pindah direktori
+```bash
+cd api/Synapse
+```
+
+### 2. Aktifkan environment
 ```bash
 conda activate pakbmobile
 ```
 
-### 2. Jalankan Server Django
+### 3. Jalankan Server Django
 ```bash
 python manage.py runserver
 ```
 
-### 3. Ekspos Server dengan LocalTunnel
+### 4. Ekspos Server dengan LocalTunnel
 ```bash
 lt --port 8000 --subdomain insectpedia
 ```
