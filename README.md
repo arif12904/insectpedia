@@ -1,5 +1,17 @@
 # Insectpedia – Aplikasi Klasifikasi Serangga Berbahaya
 
+## Nama Kelompok dan Anggota
+
+**B3'23**  
+
+**Anggota:**  
+1. Muhammad Arif Septian (2309106046)  
+2. Muhammad Iqbal Fadiatama (2309106077)   
+3. Muhammad Rizky Haritama Putra (2309106083)
+4. Ari Fullah (2309106085)
+
+---
+
 Insectpedia adalah aplikasi klasifikasi serangga berbahaya berbasis kecerdasan buatan yang mengidentifikasi berbagai spesies serangga melalui foto. Aplikasi ini memberikan informasi singkat tentang karakteristik setiap serangga yang terdeteksi, tingkat bahaya, dan metode penanganannya. Insectpedia membantu pengguna mengenali potensi ancaman sejak dini dan meningkatkan kesadaran tentang serangga yang dapat merusak tanaman atau memengaruhi kesehatan manusia.
 
 ---
@@ -80,6 +92,15 @@ Pengguna dapat:
 - Logout  
 
 <img src="https://github.com/user-attachments/assets/58d80a4b-b646-432b-ab33-725cf2858f73" width="300">
+
+---
+
+### 8. Edit Profile & Hapus Akun  
+Pengguna dapat melakukan:
+- **Edit Profile**: mengubah username atau avatar  
+- **Hapus Akun**: menghapus akun secara permanen  
+
+<img src="https://github.com/user-attachments/assets/13edbfbd-e32c-4e17-831f-8b331612c1f2" width="300">
 
 ---
 
