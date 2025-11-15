@@ -18,7 +18,7 @@ Saat pertama kali dibuka, pengguna akan melihat **3 halaman onboarding**.
 ---
 
 ### 2. Registrasi Akun  
-Jika belum memiliki akun, masuk ke halaman **Register**, lalu isi email, username, dan password.</br>
+Jika belum memiliki akun, masuk ke halaman **Register**, lalu isi avatar, email, username, password, dan konfirmasi password.</br>
 
 <img src="https://github.com/user-attachments/assets/d15a12d5-7b7f-4072-8b8c-bfdd84d33fc3" width="300">
 
@@ -34,19 +34,23 @@ Pada halaman Login, masukkan email dan password untuk masuk.</br>
 ---
 
 ### 4. Masuk ke Home Screen  
-Setelah login, pengguna diarahkan ke Home Screen sebagai pusat navigasi aplikasi.
+Setelah login, pengguna diarahkan ke Home Screen sebagai pusat navigasi aplikasi.</br>
 
-![Home Screenshot](https://via.placeholder.com/600x300?text=Home+Screen)
+<img src="https://github.com/user-attachments/assets/6c135bd0-f05e-4727-b46c-d96dbd8717e6" width="300">
+
 
 ---
 
 ### 5. Melakukan Klasifikasi Serangga (Scan)
 
 #### a. Pilih menu **Scan**
-![Scan Menu](https://via.placeholder.com/600x300?text=Scan+Menu)
+
+<img src="https://github.com/user-attachments/assets/8dd7a0af-5ca3-415f-b507-dbd8489f2021" width="300">
+
 
 #### b. Ambil foto lewat kamera atau unggah dari galeri
-![Pick Image](https://via.placeholder.com/600x300?text=Pick+Image)
+
+<img src="https://github.com/user-attachments/assets/6d89459f-9c5f-4633-94eb-0323244858ad" width="300">
 
 #### c. Lihat hasil klasifikasi  
 Aplikasi menampilkan:
@@ -55,7 +59,8 @@ Aplikasi menampilkan:
 - Karakteristik  
 - Penanganan  
 
-![Result Screenshot](https://via.placeholder.com/600x300?text=Classification+Result)
+<img src="https://github.com/user-attachments/assets/cdbf2988-2acf-4504-bcca-de19355b1037" width="300">
+
 
 ---
 
