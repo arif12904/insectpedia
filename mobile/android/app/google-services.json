@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1038567689751",
+    "project_id": "insectpedia-1f996",
+    "storage_bucket": "insectpedia-1f996.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038567689751:android:8af1ea0e97fe422b379652",
+        "android_client_info": {
+          "package_name": "com.example.insectpedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR5jvaEwuhLiWCPeTQySoIyM9UAKL-qIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
